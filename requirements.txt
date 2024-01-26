@@ -1,0 +1,17 @@
+fastapi[all]~=0.97.0
+pydantic~=1.10.9
+SQLalchemy~=2.0.16
+python-dotenv~=1.0.0
+alembic~=1.11.1
+asyncpg~=0.27.0
+fastapi-users~=11.0.0
+fastapi-users-db-sqlalchemy~=5.0.0
+redis~=4.6.0
+aioredis~=2.0.1
+fastapi-cache2[redis]~=0.2.1
+celery~=5.3.1
+flower~=2.0.0
+gunicorn[fastapi]~=20.1.0
+httpx~=0.24.1
+starlette~=0.27.0
+Jinja2~=3.1.2
